@@ -1,4 +1,4 @@
-# YOLO-weed-tilling
+# YOLO-label-tilling
 
 As we know, training YOLO models with images of high resolution can be tricky, due to the loss of the labels' resolution.
 
