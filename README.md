@@ -1,2 +1,9 @@
 # YOLO-weed-tilling
-We know about YOLO-tilling but what happens when we want to till images of high resolution that contain the weeds of our interest? This rep is for you!
+
+As we know, training YOLO models with images of high resolution can be tricky, due to the loss of the labels' resolution.
+
+Then tilling came to save the day, by cropping images in lower resolution with thei according labels.
+
+This script was based through the github rep of YOLO-tilling, with the help of ChatGPT.
+
+
